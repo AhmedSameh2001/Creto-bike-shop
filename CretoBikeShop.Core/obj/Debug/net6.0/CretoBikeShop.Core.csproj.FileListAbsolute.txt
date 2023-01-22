@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\bin\Debug\net6.0\CretoBikeShop.Core.deps.json
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\bin\Debug\net6.0\CretoBikeShop.Core.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\bin\Debug\net6.0\CretoBikeShop.Core.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\refint\CretoBikeShop.Core.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\CretoBikeShop.Core.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Core\obj\Debug\net6.0\ref\CretoBikeShop.Core.dll

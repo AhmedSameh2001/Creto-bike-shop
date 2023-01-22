@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Infrastructure.deps.json
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Infrastructure.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Infrastructure.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\refint\CretoBikeShop.Infrastructure.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\ref\CretoBikeShop.Infrastructure.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Core.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Data.dll
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Data.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\bin\Debug\net6.0\CretoBikeShop.Core.pdb
+C:\Users\Administrator\source\repos\CretoBikeShop\CretoBikeShop.Infrastructure\obj\Debug\net6.0\CretoBikeShop.Infrastructure.csproj.CopyComplete

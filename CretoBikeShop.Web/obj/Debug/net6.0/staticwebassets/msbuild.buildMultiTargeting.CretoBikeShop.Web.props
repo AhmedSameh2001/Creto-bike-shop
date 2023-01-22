@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CretoBikeShop.Web.props" />
+</Project>
